@@ -1,1 +1,16 @@
+body {
+  background-color:#DBCDF4;
 
+  font-family: 'Bacasime Antique ';
+  color: #9370DB;
+}
+
+@font-face {
+  font-family: 'Bacasime Antique ';
+  src:  url('./resources/fonts/Caveat/Shantell Sans-Regular.ttf') format('truetype');
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+}
