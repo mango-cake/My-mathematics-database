@@ -1,2 +1,2 @@
 # My-mathematics-database
-This is for a math website I am hoping to complete by the end of August! My database will be called: Mango's Mathematics! It is going to showcase a plethera of math skills and units, especially topics surrounding Algebra (1 & 2), Geometry, Triganometry, and much, much more. I hope that this website can help you better understand different types of math. :)
+This is for a math website I am hoping to complete by the end of August! Instead of teaching normal types of math like any average mathematician,on my website, I will be discussing special topics in mathematics that are overlooked by most people. These types of properties and principals are not like other theorems and conjectures. Hope you enjoy!!!
