@@ -1,8 +1,6 @@
 body {
   background-color:hsl(340, 49%, 69%), 100%, 90%);
-  <img src=”(https://www.google.com/search?client=ubuntu&hs=nDW&channel=fs&q=pixelated+star&tbm=isch&sa=X&ved=2ahUKEwifxc6t-ZOAAxX4F1kFHfoQCSwQ0pQJegQIFBAB&biw=1867&bih=971&dpr=1#imgrc=12-LnByMf9U-qM)”>
-
-
+  
   font-family: 'Bacasime Antique ';
   color:  #9370DB;
 }
@@ -15,4 +13,32 @@ body {
 p {
   font-size: 30px;
   text-align: center;
+}
+}
+
+.button {
+  border-radius: 5px;
+  font-family: 'Shantell Sans';
+  font-size: 30px;
+  background-color: rgb(194, 95, 29); /* Green */
+  border: none;
+  color: rgb(175, 134, 106);
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  outline: none;
+}
+
+.home_button {
+  background-color: rgb(218, 141, 79);
+  color: #CDD7D6;
+}
+
+.home_button:hover {
+  background-color: #eb9d36;
+  color: #d5c8f8;
 }
