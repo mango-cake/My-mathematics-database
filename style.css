@@ -40,5 +40,5 @@ p {
 
 .home_button:hover {
   background-color: #eb9d36;
-  color: #d5c8f8;
+  color: hsl(236, 100%, 91%), 100%, 91%);
 }
