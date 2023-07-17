@@ -34,11 +34,11 @@ p {
 }
 
 .home_button {
-  background-color: rgb(230, 138, 131);
-  color: #8b65c9;
+  background-color: rgb(189, 217, 253);
+  color: #b86c39;
 }
 
 .home_button:hover {
-  background-color: #eb9d36;
-  color: hsl(236, 100%, 91%), 100%, 91%);
+  background-color: #ddc5fc;
+  color: hsl(12, 86%, 67%), 100%, 91%);
 }
